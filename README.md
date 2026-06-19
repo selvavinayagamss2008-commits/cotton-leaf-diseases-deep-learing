@@ -1,2 +1,2 @@
-# cotton-leaf-diseases-deep-learing
+#lung-diseases-deep-learing
 to find diseases
